@@ -3,7 +3,9 @@
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
       <module name="myproject.myproject.main" target="11" />
+      <module name="myproject.myproject.main~1" target="11" />
       <module name="myproject.myproject.test" target="11" />
+      <module name="myproject.myproject.test~1" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
